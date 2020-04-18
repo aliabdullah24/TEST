@@ -1,1 +1,7 @@
-printf("iam hungry")
+hungry= input("are you hungry")
+if hungery =="yes"
+printf("eat smosa")
+else
+{
+printf("do your home work")
+}
