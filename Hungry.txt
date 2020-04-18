@@ -10,4 +10,5 @@ if(Yes)
 {
 printf("drink water")
 printf("drink soda")
+printf("drink sharab")
 }
