@@ -13,4 +13,5 @@ printf("drink soda")
 printf("drink limka")
 printf("drink sharab")
 printf("volume 10")
+printf("lun")
 }
