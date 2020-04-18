@@ -1,7 +1,14 @@
 hungry= input("are you hungry")
 if hungery =="yes"
 printf("eat smosa")
+printf("eat Chicken")
+printf("eat Birani")
 else
 {
-printf("do your home work")
+printf("Are you thirsty")
+if(Yes)
+{
+printf("drink water")
+printf("drink soda")
+printf("drink limka")
 }
