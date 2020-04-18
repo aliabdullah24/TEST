@@ -11,4 +11,5 @@ if(Yes)
 printf("drink water")
 printf("drink soda")
 printf("drink limka")
+printf("drink sharab")
 }
