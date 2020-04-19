@@ -1,5 +1,5 @@
 hungry= input("are you hungry")
-if hungery =="yes"
+if hungery =="yes" and hungry == "Y"
 printf("eat smosa")
 printf("eat Chicken")
 printf("eat Birani")
