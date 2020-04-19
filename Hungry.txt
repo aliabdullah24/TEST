@@ -23,4 +23,5 @@ printf("our online classes")
 printf("admission open")
 printf("admission closed
 printf("admission closed btayo)
+printf("124")
 }
