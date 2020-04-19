@@ -1,5 +1,9 @@
 hungry= input("are you hungry")
+<<<<<<< HEAD
 if hungery =="yes" and hungry == "Yo"
+=======
+if hungery =="yes" and hungry == "Y"
+>>>>>>> 377231b7a5b0396191108ed224a2ddaf723f535a
 printf("eat smosa")
 printf("eat Chicken")
 printf("eat Birani")
@@ -17,9 +21,5 @@ printf("lun")
 printf("kuta")
 printf("our online classes")
 printf("admission open")
-printf("admission open")
-printf("admission open")
-printf("admission open")
-printf("admission open")
-printf("admission open")
+printf("admission closed
 }
